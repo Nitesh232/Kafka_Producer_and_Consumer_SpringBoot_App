@@ -1,0 +1,2 @@
+# Kafka_Producer_and_Consumer_SpringBoot_App
+This repository contains Kafka Producer and Consumer SpringBoot Application
